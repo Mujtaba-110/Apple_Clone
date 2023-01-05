@@ -1,0 +1,59 @@
+.size{
+	font-size: 60px;
+}
+.textdeco{
+	text-decoration: none;
+	font-size: 12px;
+	color: #1d1d1f;
+}
+.size1{
+	font-size: 30px;
+}
+.size2{
+	font-size: 15px;
+	margin: 12px;
+	color: #1d1d1f;
+}
+p{
+	font-family: SF Pro Text,Myriad Set Pro,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-size: 12px;
+}
+.bg{
+	background-color: #f5f5f7;
+	/*position: fixed;
+	top:10;
+    width:100%;
+    z-index:100;*/
+}
+.left{
+	margin-left: 20px;
+}
+.india_left{
+	margin-left: 50px;
+}
+.bg1{
+	background-color: #f5f5f7;
+}
+.container2 {
+  	position: relative;
+  	text-align: center;
+  	color: white;
+}
+.centered {
+  	position: absolute;
+  	font-size: 40px;
+  	top: 10%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
+.centered2 {
+  	position: absolute;
+  	font-size: 30px;
+  	top: 23%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
+li{
+	font-family: SF Pro Text,Myriad Set Pro,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-size: 12px;
+}
